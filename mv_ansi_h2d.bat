@@ -11,7 +11,7 @@ setlocal enabledelayedexpansion
 adb devices
 
 @REM Change `source_folder` to the local path
-set source_folder=C:\Users\Geoyee\Desktop\123 qwe
+set source_folder=C:\Users\XXX\Desktop\music
 @REM Change `target_folder` to the phone's path
 @REM Use `sdcard` instead
 set target_folder=/sdcard/Music/test
